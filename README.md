@@ -15,10 +15,10 @@ We realease partial of our training code on UCF101 dataset. It contains the self
 
 You can download the original UCF101 dataset from the [official website](https://www.crcv.ucf.edu/data/UCF101.php). And then extarct RGB images from videos and finally extract optical flow data using TVL1 method. **But I recommend you to direclty download the pre-processed RGB and optical flow data of UCF101 provided by [feichtenhofer](https://github.com/feichtenhofer/twostreamfusion).** 
 
+## Train
 Here we provide the first version of our training code with "placeholder" as data reading pipeline, so you don't need to write RGB/Optical flow data into tfrecord format. We also rewrite the training code using Dataset API, but currently we think the placeholder version is enough for you to get to understand motion statsitics. 
 
-## Train
-Remember to set right dataset directory in the list file, and then you can play with the motion statistics!
+Before `python train.py`, remember to set right dataset directory in the list file, and then you can play with the motion statistics!
 
 ## Citation
 
