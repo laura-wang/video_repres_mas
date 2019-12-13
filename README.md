@@ -2,7 +2,7 @@
 Tensorflow implementation of our CVPR 2019 paper [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Self-Supervised_Spatio-Temporal_Representation_Learning_for_Videos_by_Predicting_Motion_and_CVPR_2019_paper.html)
 
 ## Update
-Currently, we are working a journal extension of our work. We will release our code (pytorch version) and pretrained models later. Please wait and follow our work ^_^~
+Currently, we are working on a journal extension. We will release our code (pytorch version) and pretrained models based on the journal version later. It will come soon. Please wait and follow our work ^_^
 
 
 ## Overview
