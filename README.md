@@ -1,6 +1,9 @@
 # video_repres_mas
 Tensorflow implementation of our CVPR 2019 paper [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Self-Supervised_Spatio-Temporal_Representation_Learning_for_Videos_by_Predicting_Motion_and_CVPR_2019_paper.html)
 
+## Update
+Currently, we are working a journal extension of our work. We will release our code (pytorch version) and pretrained models later. Please wait and follow our work ^_^~
+
 
 ## Overview
 We realease partial of our training code on UCF101 dataset. It contains the self-supervised learning based on motion statistics (see more details in our paper).    
