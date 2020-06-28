@@ -1,4 +1,4 @@
-# video_repres_mas
+#  Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics
 Tensorflow implementation of our CVPR 2019 paper [Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Self-Supervised_Spatio-Temporal_Representation_Learning_for_Videos_by_Predicting_Motion_and_CVPR_2019_paper.html)
 
 ## Update
