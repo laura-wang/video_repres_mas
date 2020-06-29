@@ -8,6 +8,7 @@ Pytorch implemetation https://github.com/laura-wang/video_repres_sts
 
 ## Overview
 We realease partial of our training code on UCF101 dataset. It contains the self-supervised learning based on motion statistics (see more details in our paper).    
+The entire training protocol (both motion statistics and appearance statistics) is implemented in the pytorch version: https://github.com/laura-wang/video_repres_sts.
 
 ## Requirements
 1. tensorflow >= 1.9.0
