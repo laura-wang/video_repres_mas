@@ -3,7 +3,7 @@ Tensorflow implementation of our CVPR 2019 paper [Self-Supervised Spatio-Tempora
 
 ## Update
 
-Pytorch implemetation https://github.com/laura-wang/video_repres_sts
+A journal (T-PAMI 2021) extension of this work can be found [here](https://arxiv.org/abs/2008.13426), with extensive additional analysis and significant performance gain (~30%). The corresponding PyTorch implemetation is available here: https://github.com/laura-wang/video_repres_sts.
 
 
 ## Overview
@@ -33,7 +33,7 @@ If you find this repository useful in your research, please consider citing:
 @inproceedings{wang2019self,
   title={Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics},
   author={Wang, Jiangliu and Jiao, Jianbo and Bao, Linchao and He, Shengfeng and Liu, Yunhui and Liu, Wei},
-  booktitle={CVPR},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={4006--4015},
   year={2019}
 }
